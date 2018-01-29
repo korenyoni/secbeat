@@ -2,7 +2,7 @@
 
 A heartbeat shipped as a Golang binary, publishing security-related events to ElasticSearch.
 
-##Motivation
+## Motivation
 
 Beats such as [filebeat]() and [auditbeat]() exist, but their scope limits the flexibility
 for field creation. Perhaps it is possible to do so with the addition of logstash,
@@ -13,6 +13,6 @@ all the events necessary for making HIPAA and SOC-2 quality logs.
 Secbeat is a heartbeat designed to be shipped as a single binary and make use of environment variables
 to connect to Elasticsearch and publish security related events.
 
-##State of project
+## State of project
 
 WIP
