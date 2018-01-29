@@ -1,0 +1,4 @@
+package: .
+import:
+- package: github.com/hpcloud/tail
+  version: ^1.0.0

@@ -1,0 +1,17 @@
+hash: fa8fc8721734d74f3d2106defbb551bca7caa4f2ab84c74126eead49e9aa122a
+updated: 2018-01-28T23:12:16.144489376Z
+imports:
+- name: github.com/hpcloud/tail
+  version: a30252cb686a21eb2d0b98132633053ec2f7f1e5
+  subpackages:
+  - ratelimiter
+  - util
+  - watch
+  - winfile
+- name: github.com/vjeantet/grok
+  version: ce01e59abcf6fbc9833b7deb5e4b8ee1769bcc53
+- name: gopkg.in/fsnotify.v1
+  version: 7be54206639f256967dd82fa767397ba5f8f48f5
+- name: gopkg.in/tomb.v1
+  version: c131134a1947e9afd9cecfe11f4c6dff0732ae58
+testImports: []
