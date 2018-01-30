@@ -4,7 +4,7 @@ A heartbeat shipped as a Golang binary, publishing security-related events to El
 
 ## Motivation
 
-Beats such as [filebeat]() and [auditbeat]() exist, but their scope limits the flexibility
+Beats such as [filebeat](https://www.elastic.co/products/beats/filebeat) and [auditbeat](https://www.elastic.co/products/beats/auditbeat) exist, but their scope limits the flexibility
 for field creation. Perhaps it is possible to do so with the addition of logstash,
 but that is one more component to worry about.
 
